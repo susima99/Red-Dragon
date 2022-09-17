@@ -11,7 +11,7 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
+global.alivemsg = `🤔𝙸𝙼 𝚁𝙴𝙳 𝙳𝚁𝙰𝙶𝙾𝙽 𝙱𝙾𝚃😇
 🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
@@ -30,7 +30,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
 global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.ownername = "𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐁𝐎𝐓" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -47,16 +47,16 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
+global.owner = ['+94705574038']
+global.ownertag = '+94705574038' //your tag number
+global.botname = '𝐒𝐀𝐂𝐇𝐘𝐀 𝐁𝐎𝐓' //ur bot name
+global.packname = "𝐬𝐚𝐜𝐡𝐢𝐲𝐚 𝐛𝐨𝐭" // sticker packname
+global.author = "𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐁𝐎𝐓" // sticker author
+global.dragonemoji = '👉' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94705574038'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
@@ -71,7 +71,7 @@ global.mess = {
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    wait: '👉👈පොඩ්ඩක් හිටපන් හොදෙ මට කියලා කෙලව ගන්නෙ නැතුව...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     linkm: 'Where is the link?',
