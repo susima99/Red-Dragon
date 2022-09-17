@@ -29,7 +29,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
+global.vcardowner = ['+94705574038'] // owner number
 global.ownername = "𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐁𝐎𝐓" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
@@ -53,7 +53,7 @@ global.botname = '𝐒𝐀𝐂𝐇𝐘𝐀 𝐁𝐎𝐓' //ur bot name
 global.packname = "𝐬𝐚𝐜𝐡𝐢𝐲𝐚 𝐛𝐨𝐭" // sticker packname
 global.author = "𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐁𝐎𝐓" // sticker author
 global.dragonemoji = '👉' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '[ 𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐁𝐎𝐓]' //
 
 //database
 global.premium = ['+94705574038'] //ur premium numbers
