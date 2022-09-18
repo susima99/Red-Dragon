@@ -31,7 +31,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owner v card
 global.vcardowner = ['+94705574038'] // owner number
 global.ownername = "𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐁𝐎𝐓" // owner name
-global.ytname = "" /https://sites.google.com/view/red-dragon-bot/home/ yt chanel name
+global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
@@ -52,7 +52,7 @@ global.ownertag = '+94705574038' //your tag number
 global.botname = '𝐒𝐀𝐂𝐇𝐘𝐀 𝐁𝐎𝐓' //ur bot name
 global.packname = "𝐬𝐚𝐜𝐡𝐢𝐲𝐚 𝐛𝐨𝐭" // sticker packname
 global.author = "𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐁𝐎𝐓" // sticker author
-global.dragonemoji = '◐━━━◑' // Menu emoji
+global.dragonemoji = '◑' // Menu emoji
 global.footer = '[ 𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐁𝐎𝐓]' //
 
 //database
@@ -71,7 +71,7 @@ global.mess = {
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '🖕🖕පොඩ්ඩක් හිටපන් හොදෙ මට කියලා කෙලව ගන්නෙ නැතුව...',
+    wait: '🖕පොඩ්ඩක් හිටපන් හොදෙ මට කියලා කෙලව ගන්නෙ නැතුව...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     linkm: 'Where is the link?',
