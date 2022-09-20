@@ -12,7 +12,7 @@ global.APIKeys = {
 }
 
 global.alivemsg = `🤔𝙸𝙼 𝚁𝙴𝙳 𝙳𝚁𝙰𝙶𝙾𝙽 𝙱𝙾𝚃😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+🤷‍♀️𝙷𝙾𝚆 𝙲𝙰𝙽 𝙷𝙴𝙻𝙿 𝚈𝙾𝚄?😉` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
