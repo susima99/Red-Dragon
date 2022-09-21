@@ -15,10 +15,10 @@ global.alivemsg = `◑𝙸𝙼 𝚁𝙴𝙳 𝙳𝚁𝙰𝙶𝙾𝙽 𝙱𝙾�
 ◐𝙷𝙾𝚆 𝙲𝙰𝙽 𝙷𝙴𝙻𝙿 𝚈𝙾𝚄?◐` //Costomize Alive Message (type your message in `` )
 
 
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoTyping = true//auto tying in gc (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
+global.autoReadGc = true //auto reading in gc (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -38,12 +38,12 @@ global.location = "India, Mizoram, Aizawl" // location
 //bot body 
 global.alivepic = `https://i.pinimg.com/originals/95/e3/1b/95e31ba3d2d51ac1c90c33f2a3e17891.png` // alive picture \\"https://ibb.com" to upload photos. < 1 MB
 
-global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
-global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
-global.antibad = "false" // To remove bad word senders
+global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in this)
+global.callblock = "true" // call block "true" / "false" ("true"  to block callers)
+global.antibad = "true" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
-global.antilink = "false" // To remove group link sharing peoples
-global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
+global.antilink = "true" // To remove group link sharing peoples
+global.upsongvoice = "true" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
